@@ -1,0 +1,42 @@
+﻿---
+ID: "40e4712c-c9b3-5e59-aafa-f29fc94cea83"
+Parent: "0f7e1b4b-bac4-5405-9255-476372d8f830"
+Template: "8e59c8af-a878-59d8-b136-a71f55206edb"
+Path: "/sitecore/content/HeadlessApp/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7A4F8AD6E93A009B7A1F2DF9957E9F59E0069ECF65361BB997451C1257F427C02"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Date-8"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00a9d36a-3868-5aaa-95e9-f3b6d58a895b"
+      Hint: description
+      Value: |
+        <p><small>Both <code>Date</code> and <code>DateTime</code> field types are available. Choosing <code>DateTime</code> will make Sitecore show editing UI for time; both types store complete date and time values internally. Date values in JSS are formatted using <a href="https://en.wikipedia.org/wiki/ISO_8601#Combined_date_and_time_representations" target="_blank">ISO 8601 formatted strings</a>, for example <code>2012-04-23T18:25:43.511Z</code>.</small></p>
+        <div class="alert alert-warning"><small>Note: this is a JavaScript date format (e.g. <code>new Date().toISOString()</code>), and is different from how Sitecore stores date field values internally. Sitecore-formatted dates will not work.</small></div>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230424T033347Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dae77a25-47ea-45c5-a984-aa917908a59d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c34bc6ac-a2a8-58fb-b4bf-33b467d1308f"
+      Hint: date
+      Value: 20120504T000000Z
+    - ID: "c35cc890-6cda-5c62-8637-de199f37bee9"
+      Hint: heading
+      Value: Date
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T033347Z
+    - ID: "f998dd65-129e-56f5-8f38-bcc3aac793cc"
+      Hint: dateTime
+      Value: 20180314T150000Z

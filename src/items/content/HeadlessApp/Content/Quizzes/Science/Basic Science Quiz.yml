@@ -1,0 +1,40 @@
+﻿---
+ID: "9bd82de4-7a07-465c-b29a-8a835a2e8d4b"
+Parent: "9a5e708d-27a6-4e91-b22b-605e13a16840"
+Template: "7cbc9ab4-2bf6-47b7-b47b-bfb0f6c359a0"
+Path: /sitecore/content/HeadlessApp/Content/Quizzes/Science/Basic Science Quiz
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230501T224012Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5ff9ab28-3005-411e-8b7a-624b16f0ec50"
+      Hint: Description
+      Value: Basic Science Quiz Description
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b7fb1ef-8a66-443a-b312-ff50a9c93434"
+    - ID: "a1aa68f3-4fe2-42b0-85e8-3f5542a459b8"
+      Hint: Ttile
+      Value: Basic Science Quiz 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230501T232321Z
+    - ID: "df5232aa-2b4a-44e1-aa85-e563dc3b821c"
+      Hint: Difficulty
+      Value: Easy

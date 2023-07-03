@@ -1,0 +1,49 @@
+﻿---
+ID: "1ed9f65a-eb91-5e63-bb32-636c049160b5"
+Parent: "0f7e1b4b-bac4-5405-9255-476372d8f830"
+Template: "febb2a01-5a9a-5869-8bc0-466ae71bf9ad"
+Path: "/sitecore/content/HeadlessApp/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Link-9"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00a9d36a-3868-5aaa-95e9-f3b6d58a895b"
+      Hint: description
+      Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>
+    - ID: "0b7cba35-5f74-531a-9732-7913361dd2b5"
+      Hint: emailLink
+      Value: |
+        <link linktype="mailto" text="Send an Email" url="mailto:foo@bar.com" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230424T033347Z
+    - ID: "3717b001-75a6-58a0-944a-d955d3bf279a"
+      Hint: internalLink
+      Value: |
+        <link id="{1DE894AD-5866-55A2-B779-52DB016B79D4}" linktype="internal" />
+    - ID: "7ef59bae-2465-5265-9b63-c96f3263f89d"
+      Hint: externalLink
+      Value: |
+        <link linktype="external" text="Link to Sitecore" url="https://www.sitecore.com" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e983316a-3d97-4585-ab19-3b1d917177bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c35cc890-6cda-5c62-8637-de199f37bee9"
+      Hint: heading
+      Value: General Link
+    - ID: "cffed7ad-4857-53ba-973d-e46c2a9db45a"
+      Hint: paramsLink
+      Value: |
+        <link class="fw-bold" target="_blank" title="&lt;a&gt; title attribute" linktype="external" text="Sitecore Dev Site" url="https://dev.sitecore.net" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T033347Z

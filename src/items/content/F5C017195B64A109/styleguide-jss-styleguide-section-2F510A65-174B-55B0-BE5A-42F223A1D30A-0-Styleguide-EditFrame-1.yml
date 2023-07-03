@@ -1,0 +1,38 @@
+﻿---
+ID: "8fbd2609-b543-5d3c-8321-fbbe4a8fc16e"
+Parent: "0f7e1b4b-bac4-5405-9255-476372d8f830"
+Template: "2f50e68c-7bb1-50b7-8464-93312b701ac4"
+Path: "/sitecore/content/HeadlessApp/home/styleguide/Page Components/styleguide-jss-styleguide-section-2F510A65-174B-55B0-BE5A-42F223A1D30A-0-Styleguide-EditFrame-1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-EditFrame-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230424T033348Z
+    - ID: "7334c9dc-5755-59e0-94bd-96018448cb3e"
+      Hint: heading
+      Value: Edit Frame
+    - ID: "7f6093e0-c93e-501d-a363-7bd17ac5d412"
+      Hint: sampleList
+      Value: |
+        {5F494292-F799-5859-879F-42D5B40495DC}
+        {C6311330-645B-5EE5-9B82-07EDD8358E70}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49c35f14-a02e-4646-bc25-f6f8e84ff443"
+    - ID: "af279200-aa31-5327-8a68-848f34784d18"
+      Hint: description
+      Value: "<p>Who framed Roger Rabbit? Hard to say. <br /> But JSS now allows to edit frame any piece of content on a page in editing mode. <br /> You can add web edit or field edit buttons, modify edit frame style through CSS class and put the frame wherever you need it. </p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T033348Z

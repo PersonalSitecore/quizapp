@@ -1,0 +1,47 @@
+﻿---
+ID: "2b8d6fc5-0334-4210-9761-57f582817787"
+Parent: "76512b56-e7e5-4301-8d33-e1d461e3ed49"
+Template: "ab453bee-d557-45c4-a852-19f25ca4146c"
+Path: /sitecore/content/HeadlessApp/Content/Quizzes/Math/Basc Math Quiz/Question 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e58070f-4a45-4343-bed0-fa4258f5f866"
+      Hint: Question Type
+      Value: "{89929671-4688-4837-B8AC-B415199B6F0B}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230501T224136Z
+    - ID: "35476535-f360-4f2f-9529-4b302c745f16"
+      Hint: Question Text
+      Value: "What is the largest organ in the human body?"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8204e0a6-9c41-4c50-8ca2-1ef6b25aa674"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bbe383c1-57c4-4a49-9ff9-eaf64c3c20d6"
+      Hint: Choices
+      Value: |
+        {DBA363AA-313A-4FD2-B47D-DCB99F54A8C6}
+        {96451441-275C-437C-92F8-53232C4DFB48}
+        {B9018FA3-372A-43C9-97C7-A705AEAC2427}
+        {6560C6B0-A4B7-4522-822D-26D20A6960CC}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230501T232458Z
+    - ID: "e3a2de92-4197-4cc7-b66d-6c61767fe980"
+      Hint: Correct Answer
+      Value: "{B9018FA3-372A-43C9-97C7-A705AEAC2427}"

@@ -1,0 +1,16 @@
+{
+    "namespace": "HeadlessApp-Content",
+    "references": [ "HeadlessApp" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/HeadlessApp"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/headlessapp"
+            }
+        ]
+    }
+}

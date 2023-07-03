@@ -1,0 +1,52 @@
+﻿---
+ID: "34a87eff-dd5f-5470-99a1-e7a2921262fc"
+Parent: "0f7e1b4b-bac4-5405-9255-476372d8f830"
+Template: "02c15922-efda-52bf-b1be-ed5c0501796c"
+Path: "/sitecore/content/HeadlessApp/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00a9d36a-3868-5aaa-95e9-f3b6d58a895b"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230424T033347Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "435483e2-3c7a-40a8-8956-0da6519d6b6d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c18687af-9f8a-5c4f-a228-030ef360d0d9"
+      Hint: localContentList
+      Value: |
+        {71B38352-89B5-547E-83BE-D19D0E3FBFFC}
+        {2518CE2D-2524-5FF9-BFF1-A8284A0BF4F6}
+    - ID: "c35cc890-6cda-5c62-8637-de199f37bee9"
+      Hint: heading
+      Value: Content List
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T033347Z
+    - ID: "da62c296-b73b-506a-8ee0-066a7329aaad"
+      Hint: sharedContentList
+      Value: |
+        {77FCD7E0-A0A9-5D4A-A290-C06404E78362}
+        {90033159-3ADB-574C-87C3-89FBF9164D57}

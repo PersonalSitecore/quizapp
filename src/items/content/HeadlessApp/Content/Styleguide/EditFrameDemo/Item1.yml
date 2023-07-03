@@ -1,0 +1,30 @@
+﻿---
+ID: "5f494292-f799-5859-879f-42d5b40495dc"
+Parent: "f4a81b62-c0ad-55e9-8e3f-5c958f8ff6af"
+Template: "83f45da7-1981-57cb-ab6f-5a8b38daab16"
+Path: /sitecore/content/HeadlessApp/Content/Styleguide/EditFrameDemo/Item1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: EditFrame Demo List Item 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230424T033345Z
+    - ID: "74575e3d-44ac-5415-9c93-feb20f3737e6"
+      Hint: title
+      Value: Edit Frame Demo List Item 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6dc8d330-4f2d-47c9-869f-42f9df447a68"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T033345Z

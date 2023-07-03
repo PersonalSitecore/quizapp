@@ -1,0 +1,51 @@
+﻿---
+ID: "42fab124-3f02-5ee6-ad00-6fd511cf2dd0"
+Parent: "a6a84e54-bf16-5993-a8a3-054f779a800f"
+Template: "9eed8875-9f04-55ff-934b-2527c099798a"
+Path: "/sitecore/content/HeadlessApp/home/styleguide/custom-route-type"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{621128A6-CC4D-5287-8ED6-E4A89A7DBBDB}"
+              p:after="*[1=2]"
+              s:rname="Styleguide-CustomRouteType"
+              s:id="{AF20EA1F-75EF-5ACD-A61B-760850952262}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "09d1d89f-d518-581b-b6c9-28a6538c3943"
+      Hint: pageTitle
+      Value: Custom Route Type | Sitecore JSS
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230424T033348Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "736dc791-fb2c-4e31-a77e-9d4ebd5afad2"
+    - ID: "92f289e6-202d-5f71-ad8a-e058776fe5af"
+      Hint: content
+      Value: "<p>Custom route type fields are good for things like articles, where you may wish to have a filter UI on content fields, such as author or category. Route level fields are easy to query against, whereas component-level fields are not because it's possible to remove a component from a route. Note that route level fields <em>cannot be personalized</em> because you cannot conditionally swap out the route item for a different content item.</p>"
+    - ID: "a846f6e3-6836-5e1c-b3ea-c13fdf41f587"
+      Hint: headline
+      Value: "A Treatise on Route-Level Fields in JSS"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T033348Z
+    - ID: "fe3814ad-c131-5569-b12e-d8880622036a"
+      Hint: author
+      Value: Myrtle

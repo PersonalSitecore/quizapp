@@ -1,0 +1,30 @@
+﻿---
+ID: "2bfb76a8-67e0-5539-88f0-fdb9d5d77f26"
+Parent: "0f7e1b4b-bac4-5405-9255-476372d8f830"
+Template: "a2013a14-89ac-5c88-abad-33e61b26c05f"
+Path: "/sitecore/content/HeadlessApp/home/styleguide/Page Components/styleguide-jss-styleguide-layout-34A6553C-81DE-5CD3-989E-853F6CB6DF8C-0-Styleguide-Section-2"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Section-2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230424T033347Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "557b4021-7477-4028-8837-58b1d5029be4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T033347Z
+    - ID: "f17c8ce7-58f3-5224-81f7-7e5f87ce8e91"
+      Hint: heading
+      Value: Layout Patterns

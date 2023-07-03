@@ -1,0 +1,33 @@
+﻿---
+ID: "135879f9-952c-5f96-a74e-c588d114ae12"
+Parent: "0f7e1b4b-bac4-5405-9255-476372d8f830"
+Template: "de006fb6-d50f-5325-b7e8-ed73729f36cd"
+Path: "/sitecore/content/HeadlessApp/home/styleguide/Page Components/styleguide-jss-styleguide-section-66AF8F03-0B52-5425-A6AF-6FB54F2D64D9-0-Styleguide-Multilingual-1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Multilingual-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230424T033348Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7028f43-739d-4504-a891-af0fd83c1731"
+    - ID: "ab72e24e-f4e4-5773-b6db-94ee9cf182d1"
+      Hint: sample
+      Value: This text can be translated in en.yml
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c35cc890-6cda-5c62-8637-de199f37bee9"
+      Hint: heading
+      Value: Translation Patterns
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T033348Z

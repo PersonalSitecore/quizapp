@@ -1,0 +1,56 @@
+﻿---
+ID: "1e0aae56-da1e-54f1-bd95-1dd73ebab8b7"
+Parent: "c9a0fbd7-426a-57cb-8f1b-8dfba845bebc"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/headlessapp/jss-styleguide-section"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "jss-styleguide-section"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {D5E90104-2EBB-52C6-8BCF-23F3C88D373D}
+    {DBDD1FE5-5754-51AE-9473-2FF82B62AC1D}
+    {27D34B86-C55B-595C-B1CC-DB0D209FC5F1}
+    {E5916CF1-097D-5D8A-86DE-3F7871B25913}
+    {7AC9D2D7-C930-5F13-92C4-F61DDE30297F}
+    {D367D25F-AD43-5914-ABAC-52F06DBF4581}
+    {505AE453-7148-584A-A958-AC999D4DF4E1}
+    {AF10014B-140E-5819-A1EF-98AB138C0ED7}
+    {B922B950-A9CD-5C97-A1A5-282E172DBD06}
+    {D093526A-140F-5F4B-9AFD-72480C64157B}
+    {C9CA006A-EFCB-50AE-AC3B-04B524786FE9}
+    {5383F60A-617E-572E-BC8E-7C2D61A6E494}
+    {C959F3DE-46A6-5BDF-A6E2-BC4AE67CD4C6}
+    {6DB92CA7-E362-5E02-9351-F49E34CAD35A}
+    {603C4B82-3B31-557A-9F57-5502182C6FF2}
+    {0467BA7C-4125-55D3-BA71-30D028F810FF}
+    {DE16BA5A-B2F1-5A0A-B63B-8F7121C99A34}
+    {2EDA2015-6238-5B6E-8667-DA2E2F922ED4}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230424T033342Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78a40b34-3c2a-4a10-b014-5a6b58acdd66"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T033345Z

@@ -1,0 +1,40 @@
+﻿---
+ID: "76512b56-e7e5-4301-8d33-e1d461e3ed49"
+Parent: "17ea7cd7-0214-487f-a8b5-a6ee837df414"
+Template: "7cbc9ab4-2bf6-47b7-b47b-bfb0f6c359a0"
+Path: /sitecore/content/HeadlessApp/Content/Quizzes/Math/Basc Math Quiz
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230501T223848Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5ff9ab28-3005-411e-8b7a-624b16f0ec50"
+      Hint: Description
+      Value: Basic Math Quiz description
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57f657e2-89a6-40af-92b6-f94e8659772d"
+    - ID: "a1aa68f3-4fe2-42b0-85e8-3f5542a459b8"
+      Hint: Ttile
+      Value: Basic Math Quiz
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230501T232313Z
+    - ID: "df5232aa-2b4a-44e1-aa85-e563dc3b821c"
+      Hint: Difficulty
+      Value: Easy

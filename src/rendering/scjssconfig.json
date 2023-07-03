@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "..\\..\\docker\\deploy\\platform\\",
+    "apiKey": "F025A57B-C02F-4959-9B3D-2D72F579656A",
+    "deploySecret": "0EE02C6406FE4069BF36B95E8F344006",
+    "deployUrl": "https://cm.headlessapp.localhost/sitecore/api/jss/import",
+    "layoutServiceHost": "https://cm.headlessapp.localhost"
+  }
+}

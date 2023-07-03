@@ -1,0 +1,34 @@
+﻿---
+ID: "e3314df1-f955-5f97-8268-4b3b7ea6f241"
+Parent: "9291a523-0313-5d35-bc59-eccabd4f7e92"
+Template: "029a8dbc-36b6-5fe1-906e-6b9efd115d5a"
+Path: "/sitecore/content/HeadlessApp/home/graphql/Page Components/graphql-jss-graphql-layout-A9FBC7CC-F00B-58A2-873B-4C70C726476C-0-GraphQL-ConnectedDemo-2"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "GraphQL-ConnectedDemo-2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00ac0e06-3654-5758-a773-1e6e8f76f675"
+      Hint: sample1
+      Value: "Hello connected GraphQL world!"
+    - ID: "1baf3d82-c57a-5078-b4b8-dee781583064"
+      Hint: sample2
+      Value: |
+        <link target="_blank" linktype="external" text="GraphQL lets you get structured field data too" url="https://www.sitecore.com" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230424T033346Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "466a731d-a76a-4d70-acc1-184c7a20628d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T033346Z
